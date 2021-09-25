@@ -5,14 +5,15 @@ PacMan Exercise
 PacMac Exercise
 
 ## Description of the Project
-#####
+There are two buttons in the top left corner (Add PacMan and Start Game). The Add PacMan button creates a PacMan for every click. When you start the game the PacMen will travel at random speeds and trajectories to the right until they hit the right boarder and then will reverse directions.
 
 ## How to Run/Usage (Installation)
-Once the files are downloaded (clone) the HTML file should be loaded in a Web Browser. With a click of the button "Show stops between MIT and Harvard" there will be an animation of the bus stops from MIT to Harvard. A bubble/pin will appear and move every two seconds.
+Once the files are downloaded (clone) the HTML file should be loaded in a Web Browser. With a click of the button "Add PacMan" a PacMan will be created. The desired amount of PacMen will based on the amount of clicks of that button. Once ready you can start the game. The speed of the PacMen will increase if the Start Game button is clicked more than once. Refresh your browser to clear the "board."
 
 ## Roadmap of future improvements
-Add a reset button to move the pin back to the beginning point.
-Add a reverse path from Harvard to MIT
+Add a stop button
+Reverse the image to face the direction the PacMan is traveling.
+
 
 ## Licence Information
 MIT License
